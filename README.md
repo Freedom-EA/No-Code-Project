@@ -9,3 +9,9 @@ This showcases my skills in:
 • No-code automation tools
 • Localized content creation
 • Prompt writing + conversational UX
+
+## Built With
+- BuildThatIdea.com
+
+## Live Demo
+Check out the live project here: https://buildthatidea.com/smarthustleng
