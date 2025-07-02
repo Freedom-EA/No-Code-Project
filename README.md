@@ -16,4 +16,5 @@ This showcases my skills in:
 ## Live Demo
 Check out the live project here: https://buildthatidea.com/smarthustleng
 
-![Smart Hustle NG Logo](./ChatGPT%20Image%20Jul%202%2C%202025%2C%2005_49_27%20PM.png)
+![Smart Hustle NG Logo]()
+<img src="./ChatGPT%20Image%20Jul%202%2C%202025%2C%2005_49_27%20PM.png" alt="Smart Hustle NG Logo" width="200"/>
